@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jade-victor
-- 👀 I’m interested in {👩‍💻somputer softwares}
+- 👀 I’m interested in {👩‍💻computer softwares}
 - 🌱 I’m currently learning  {Web development for {backend developers}}
-- 💞️ I’m looking to collaborate on myself 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ""
 - 😄 Pronouns: ""
 - ⚡ Fun fact: ""
